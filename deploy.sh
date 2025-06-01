@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL de ton dépôt public
-PUBLIC_REPO_URL="https://github.com/TON_USERNAME/site-public.git"
+PUBLIC_REPO_URL="https://github.com/arachaware/googlelogpublic.git"
 
 # Supprimer dossier temporaire s’il existe
 rm -rf temp-deploy
